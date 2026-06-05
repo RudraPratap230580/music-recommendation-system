@@ -1,22 +1,3 @@
-# 🎶 Music Recommendation System
-
-<div align="center">
-
-&#x20;<!-- TODO: Add an actual project logo/banner, perhaps a visualization or icon related to music and AI -->
-
-[!\[GitHub stars](https://img.shields.io/github/stars/RudraPratap230580/music-recommendation-system?style=for-the-badge)](https://github.com/RudraPratap230580/music-recommendation-system/stargazers)
-
-[!\[GitHub forks](https://img.shields.io/github/forks/RudraPratap230580/music-recommendation-system?style=for-the-badge)](https://github.com/RudraPratap230580/music-recommendation-system/network)
-
-[!\[GitHub issues](https://img.shields.io/github/issues/RudraPratap230580/music-recommendation-system?style=for-the-badge)](https://github.com/RudraPratap230580/music-recommendation-system/issues)
-
-[!\[GitHub license](https://img.shields.io/github/license/RudraPratap230580/music-recommendation-system?style=for-the-badge)](LICENSE)
-
-**A content-based music recommendation engine built with Python, utilizing cosine similarity and Streamlit to suggest tracks based on audio features.**
-
-[Live Demo](https://share.streamlit.io/RudraPratap230580/music-recommendation-system/app.py) <!-- TODO: Verify or add a live Streamlit Cloud deployment link -->
-
-</div>
 
 ## 📖 Overview
 
